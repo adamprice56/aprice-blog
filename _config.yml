@@ -2,7 +2,7 @@
 title: Adam's blog
 email: adam@aprice.cf
 description: > # this means to ignore newlines until "baseurl:"
-  This is my blog!
+  The ramblings of a Linux obsessed IT Technician.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://blog.aprice.cf" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
