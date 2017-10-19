@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
 ---
 
 Powered by Jekyll - [jekyllrb.com](http://jekyllrb.com/)
