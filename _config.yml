@@ -10,3 +10,6 @@ github_username:  adamprice56
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-menus
