@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/docker-services.md
 hide_body: false
 fields:
 - type: text
